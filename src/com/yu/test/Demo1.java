@@ -9,5 +9,6 @@ public class Demo1 {
         System.out.println("helloWorld");
         System.out.println("helloWorld");
         System.out.println("helloWorld");
+        System.out.println("本地仓库");
     }
 }
